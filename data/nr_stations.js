@@ -1,10 +1,21 @@
 var DATA_STATIONS = {
 	"ABD" : "Aberdeen",
 	"BKW" : "Brookswood",
+	"CEN" : "Central",
 	"CRW" : "Cornwood",
 	"DDN" : "Dundas Bay",
 	"DUP" : "Dupwood",
 	"FRH" : "Fernhurst",
 	"GRF" : "Garfield",
 	"ILW" : "Illwood",
+	"KIS" : "Kinside",
+	"MKW" : "Markwood",
+	"OLE" : "Oliver Bay",
+	"OSQ" : "Omega Square",
+	"QNW" : "Queenswood",
+	"RWS" : "Raw Street",
+	"TKW" : "Tinkwood",
+	"UPO" : "Uptop",
+	"VSD" : "Vennaside",
+	"YMS" : "York Museum"
 };
